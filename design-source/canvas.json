@@ -1,0 +1,42 @@
+{
+  "v": 3,
+  "attachments": {},
+  "boards": {
+    "Main.dc.html": {
+      "expand": "fill",
+      "h": 4800,
+      "title": "Portfolio one-pager",
+      "w": 1440,
+      "x": 0,
+      "y": 0,
+      "is_interactive": true
+    },
+    "MobilePreview.dc.html": {
+      "x": 1520,
+      "y": 0,
+      "w": 390,
+      "h": 9000,
+      "title": "Mobile preview (390px)"
+    }
+  },
+  "createdOnFiles": {
+    "at": "2026-11-11T10:00:00Z",
+    "v": 1
+  },
+  "designSystems": [],
+  "launch": {
+    "view": "canvas"
+  },
+  "notes": {},
+  "order": [
+    "Main.dc.html",
+    "MobilePreview.dc.html"
+  ],
+  "pages": [
+    {
+      "id": "page-1",
+      "name": "Page 1"
+    }
+  ],
+  "title": "Sashika Dilshan Portfolio"
+}
